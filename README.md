@@ -1,2 +1,3 @@
 # hello-world
-just another repository
+
+Hi there! My name is Nathan and this is my first GitHub project!
